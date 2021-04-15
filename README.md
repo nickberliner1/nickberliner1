@@ -6,13 +6,13 @@ I used to work in marketing, branding and design, but realized that I quite like
 
 ### 💡 Some cool projects of mine
 🌎 [Nearby Store Finder](https://github.com/nickberliner1/store-finder-reactjs) 
-- React.js\
+- React.js
 
 🍺 [Bar Crawl Orginizational App](https://github.com/nickberliner1/findmycrawl) 
-- Vue/Nuxt and Python3/Django\
+- Vue/Nuxt and Python3/Django
 
 🛠 [An editable online CV](https://github.com/nickberliner1/editable-cv) 
-- React.js\
+- React.js
 
 ### 📬 How to reach me
 
