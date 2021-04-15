@@ -17,6 +17,7 @@ I used to work in marketing, branding and design, but realized that I quite like
 ### 📬 How to reach me
 
 📞 +39 347 031 7404
+
 📨 nickberliner1@gmail.com
 
 
