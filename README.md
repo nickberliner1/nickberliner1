@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Nick
 
-I'm a front-end developer currently working in IoT. \
+I'm a front-end engineer currently working for TIER Mobility. \
 I used to work in marketing, branding and design, but realized that I quite like building things as well.
 
 
